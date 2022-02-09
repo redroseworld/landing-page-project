@@ -30,9 +30,12 @@ I make all the JS file function by using some [JS-property-and-method](#JS-prope
 
 ## JS property and method
 
-1- I listen to DOMContentLoaded event to be sure all the DOM loaded.\n
+1- I listen to DOMContentLoaded event to be sure all the DOM loaded.
+
 2- I store important varibles inside function.
+
 3- I create document fragment to store list and decrease reflow and repain.
+
 4- To build navigation bar I used some property and method such as(.innerHTML,appendChild()and createElement()).
 5- Listen to click event to make smoothy scroll through section
 6- I use IntersectionObserver to observe section when appear in the view port through scrolling (to add active section and heighlight section in navigation bar)
